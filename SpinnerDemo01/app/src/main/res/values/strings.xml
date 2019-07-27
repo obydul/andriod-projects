@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SpinnerDemo01</string>
+    <string-array name="country_names">
+        <item>Afganistan</item>
+        <item>Armenia</item>
+        <item>Azerbaijan</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>China</item>
+        <item>Iran</item>
+        <item>Japan</item>
+        <item>Nepal</item>
+        <item>Pakistan</item>
+        <item>Sri lanka</item>
+        <item>Turkey</item>
+    </string-array>
+
+    <string-array name="population">
+        <item>14 million</item>
+        <item>15 million</item>
+        <item>16 million</item>
+        <item>17 million</item>
+        <item>18 million</item>
+        <item>19 million</item>
+        <item>13 million</item>
+        <item>12 million</item>
+        <item>11 million</item>
+        <item>10 million</item>
+        <item>9 million</item>
+        <item>8 million</item>
+        <item>7 million</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "94200537907",
+    "firebase_url": "https://fir-login-24fa4.firebaseio.com",
+    "project_id": "fir-login-24fa4",
+    "storage_bucket": "fir-login-24fa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94200537907:android:fa738b79b217ae36",
+        "android_client_info": {
+          "package_name": "andriod.obydul.com.autolinktextview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94200537907-0toq55bmo1qg1q4jb4f55dmi5tqa6jim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "andriod.obydul.com.autolinktextview",
+            "certificate_hash": "8ab90155d2fdda8955dae6e3ab3800e11819c3ed"
+          }
+        },
+        {
+          "client_id": "94200537907-g2h9nnhoveo7t1nc330qetb6hulifrmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9R0G1Cjmn1unpHXlYns-LeF7kyeQXYZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94200537907-g2h9nnhoveo7t1nc330qetb6hulifrmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">ExpandableListView</string>
+
+    <string-array name="abbreviation_list_header">
+        <item>COMPUTER</item>
+        <item>MOS</item>
+        <item>DP</item>
+        <item>PC</item>
+        <item>LCD</item>
+        <item>LED</item>
+        <item>VIRUS</item>
+        <item>ALU</item>
+        <item>UPS</item>
+        <item>O.S</item>
+        <item>WINDOW</item>
+        <item>CD</item>
+        <item>DVD</item>
+        <item>TBps</item>
+        <item>KBps</item>
+        <item>Kbps</item>
+        <item>MBps</item>
+        <item>GB</item>
+        <item>TB</item>
+        <item>HDD</item>
+        <item>DDR</item>
+        <item>CDR</item>
+        <item>RAM</item>
+        <item>ROM</item>
+        <item>EPROM</item>
+        <item>PROM</item>
+        <item>CD-ROM</item>
+        <item>BIOS</item>
+        <item>MHz</item>
+        <item>GHz</item>
+        <item>DIMMs</item>
+        <item>SIMMs</item>
+        <item>LAN</item>
+        <item>VPN</item>
+        <item>WAN</item>
+        <item>NAT</item>
+        <item>WLAN</item>
+        <item>CAN</item>
+        <item>DLNA</item>
+        <item>ATX</item>
+        <item>QVGA</item>
+        <item>WXGA</item>
+        <item>ATI</item>
+    </string-array>
+
+    <string-array name="abbreviation_list_child">
+        <item>Common Operating Machine particularly Used for Technical, Education and Research</item>
+        <item>Metal Oxide Semiconductor</item>
+        <item>Display Picture</item>
+        <item>Personal Computer</item>
+        <item>Liquid Crystal Display</item>
+        <item>Light Emitting Diode</item>
+        <item>Vital Information Resources Under Siege</item>
+        <item>Arithmetic Logic Unit</item>
+        <item>Uninterruptible Power Supply</item>
+        <item>Operating System</item>
+        <item>Wide Interactive Network Development for Office Work Solution</item>
+        <item>Compact Disk</item>
+        <item>Digital Versatile Disc</item>
+        <item>Terabits per second</item>
+        <item>KiloBytes Per Second</item>
+        <item>Kilobits Per Second</item>
+        <item>Megabytes Per Second</item>
+        <item>Gigabytes</item>
+        <item>Terabytes</item>
+        <item>Hard Disk Drive</item>
+        <item>Double Data Rate</item>
+        <item>Compact Disk Recorder</item>
+        <item>Random Access Memory</item>
+        <item>Read Only Memory</item>
+        <item>Erasable Programmable Read Only Memory</item>
+        <item>Programmable Read Only Memory</item>
+        <item>Compact Disk- Read Only Memory</item>
+        <item>Basic Input Output System</item>
+        <item>MegaHertz</item>
+        <item>GigaHertz</item>
+        <item>Dual In-line Memory Module</item>
+        <item>Single In-line Memory Module</item>
+        <item>Local Area Network</item>
+        <item>Virtual Private Network</item>
+        <item>Wide Area Network</item>
+        <item>Network Address Translation</item>
+        <item>Wireless Local Area Network</item>
+        <item>Campus Area Network</item>
+        <item>Digital Living Network Alliance</item>
+        <item>Advanced Technology Extended</item>
+        <item>Quarter Video Graphics Array</item>
+        <item>Wide eXtended Graphics Array</item>
+        <item>ATI Technologies Inc</item>
+    </string-array>
+
+</resources>

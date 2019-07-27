@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentRetriveData</string>
+    <string name="btn1">Go to the second activity</string>
+    <string name="btn2">Go to the first activity</string>
+</resources>

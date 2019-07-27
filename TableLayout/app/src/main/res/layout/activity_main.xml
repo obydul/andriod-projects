@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4ccfff"
+    android:stretchColumns="1"
+    tools:context=".MainActivity">
+
+
+    <TableRow
+        android:id="@+id/titleRowId"
+        android:layout_marginTop="20dp"
+        >
+        <TextView
+            android:layout_gravity="center_horizontal"
+            android:layout_span="4"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="Student Details"
+            />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_marginTop="20dp"
+        android:id="@+id/headerid"
+        android:background="#13df38"
+        >
+        <TextView
+            android:text="ID"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="20dp"
+            />
+
+        <TextView
+            android:text="Name"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="20dp"
+            />
+        <TextView
+            android:text="GPA"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="20dp"
+            />
+
+        <TextView
+            android:text="Date of Birth"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="20dp"
+            />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row3id"
+        android:background="#c7ba54"
+        >
+        <TextView
+            android:text="101"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="20dp"
+            />
+
+        <TextView
+            android:text="Md. Obydul Islam"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="20dp"
+            />
+        <TextView
+            android:text="4.42"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="20dp"
+            />
+
+        <TextView
+            android:text="30 January 1990"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="20dp"
+            />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row4id"
+        android:background="#c7ba54"
+        >
+        <TextView
+            android:text="102"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="20dp"
+            />
+
+        <TextView
+            android:text="Jihad Babu"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="20dp"
+            />
+        <TextView
+            android:text="4.00"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="20dp"
+            />
+
+        <TextView
+            android:text="28 June 2008"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="20dp"
+            />
+
+    </TableRow>
+
+
+
+    <TableRow
+        android:id="@+id/row5id"
+        android:background="#c7ba54"
+        >
+        <TextView
+            android:text="103"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="20dp"
+            />
+
+        <TextView
+            android:text="Bappi"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="20dp"
+            />
+        <TextView
+            android:text="5.00"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="20dp"
+            />
+
+        <TextView
+            android:text="22 June 2012"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="20dp"
+            />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/buttonid"
+        >
+        <Button
+            android:text="submit"
+            android:layout_column="2"
+            android:textSize="16sp"
+            />
+
+        <Button
+            android:text="Clear"
+            android:layout_column="3"
+            android:textSize="16sp"
+            />
+
+    </TableRow>
+
+
+</TableLayout>

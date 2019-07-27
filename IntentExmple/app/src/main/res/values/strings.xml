@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentExmple</string>
+    <string name="buttn1_text">Go to the second activity</string>
+    <string name="buttn2_text">Go to the first activity</string>
+</resources>

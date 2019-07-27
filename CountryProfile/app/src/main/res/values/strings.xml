@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CountryProfile</string>
+    <string name="bgd_button">Bangladesh</string>
+    <string name="turky_button">Turkey</string>
+    <string name="paki_button">Pakistan</string>
+    <string name="bgd_text">Modern Bangladesh emerged as an independent nation in 1971 after breaking away\n
+        and achieving independence from Pakistan in the Bangladesh Liberation War.\n
+        The country borders coincide with the major\n
+        portion of the ancient and historic region of Bengal in the\n
+        eastern part of the Indian subcontinent, where civilisation dates back over four millennia,\n
+        to the Chalcolithic.
+    </string>
+    <string name="turkey_text">The history of Turkey, understood as the history of the region\n
+        now forming the territory of the Republic of Turkey,\n
+        includes the history of both Anatolia (the Asian part of Turkey)\n
+        and Eastern Thrace (the European part of Turkey).\n
+        For times predating the Ottoman period, a distinction must\n
+        be made between the history of the Turkish peoples, and the history of the territories\n
+        now forming the Republic of Turkey, essentially the histories of ancient\n
+        Anatolia and Thrace.
+    </string>
+    <string name="paki_text">The history of Pakistan encompasses the history of the region\n
+        constituting modern-day Pakistan, which is intertwined with the history of the\n
+        broader Indian subcontinent and the surrounding regions of South Asia,\n
+        East Asia and Central Asia.[1] For over three millennia, the region has\n
+        witnessed human activity[2] and one of the world major civilizations,\n
+        the Indus Valley Civilisation
+    </string>
+
+</resources>

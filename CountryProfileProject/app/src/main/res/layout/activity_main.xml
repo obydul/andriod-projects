@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#5fb676"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <AnalogClock
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+   <Button
+       android:id="@+id/btnbangladesh"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/bangladesh_button"
+       android:textSize="20sp"
+       android:textStyle="bold"
+       android:layout_marginBottom="10dp"
+       android:drawableLeft="@drawable/bangladesh_flag"
+       />
+
+    <Button
+       android:id="@+id/btnturkey"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/turkey_button"
+       android:textSize="20sp"
+       android:textStyle="bold"
+       android:layout_marginBottom="10dp"
+       android:drawableLeft="@drawable/turkey_flag"
+
+       />
+
+    <Button
+       android:id="@+id/btnpakistan"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/pakistan_button"
+       android:textSize="20sp"
+       android:textStyle="bold"
+       android:drawableLeft="@drawable/pakistan_flag"
+
+       />
+
+</LinearLayout>

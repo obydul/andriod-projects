@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AutoLinkTextView</string>
+    <string name="autolink_test">
+        Name : Obydul Islam\n
+        Email : obydul.islam20@gmail.com\n
+        Phone : +88017400\n
+        Website : http://obyduljava.blogspot.com/
+    </string>
+</resources>

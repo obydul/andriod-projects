@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#17840d"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <AnalogClock
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/bgdBtn"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:drawableLeft="@drawable/bangladesh_flag"
+        android:text="@string/bgd_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="10dp"
+        />
+
+    <Button
+        android:id="@+id/turkeyBtn"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:drawableLeft="@drawable/turkey_flag"
+        android:text="@string/turky_button"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="10dp" />
+
+    <Button
+        android:id="@+id/pakiBtn"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:drawableLeft="@drawable/pakistan_flag"
+        android:text="@string/paki_button"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

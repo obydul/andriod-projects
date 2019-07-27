@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyEditTextDemo</string>
+    <string name="edittext1">Enter Number 1</string>
+    <string name="edittext2">Enter Number 2</string>
+    <string name="add_text">Add</string>
+    <string name="sub_text">Sub</string>
+    <string name="clear_text">Clear</string>
+</resources>

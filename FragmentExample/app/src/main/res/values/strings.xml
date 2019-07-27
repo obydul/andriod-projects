@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FragmentExample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="obydul_details">
+        \nName : Md. Obydul Islam
+        \nAge  : 29
+        \nPhone : 0170000000
+    </string>
+
+    <string name="jihad_details">
+        \nName : Md. Jihad Babu
+        \nAge  : 11
+        \nPhone : 0160000000
+    </string>
+
+    <string name="bappi_details">
+        \nName : Md. Bappi
+        \nAge  : 7
+        \nPhone : 0180000000
+    </string>
+</resources>
